@@ -1,5 +1,5 @@
 +++
-title = 'Inin the begining'
+title = 'In the beginning'
 date = 2025-04-19T14:12:18-03:00
 draft = true
 +++
