@@ -1,6 +1,6 @@
 +++ title = 'Temperature Sensor'
 date = 2025-04-23T13:52:20-03:00
-draft = true
+draft = false
 +++
 
 Today's project is a temperature monitor built using a DHT22 sensor and an RGB LED as output.
