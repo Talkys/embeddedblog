@@ -48,7 +48,7 @@ void loop()
 
 Simple enough — now let’s see it in action.
 
-![Circuit](/animations/blink1.webp)
+![Circuit](/animations/blink1_2.webp)
 
 And it works!
 

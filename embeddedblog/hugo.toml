@@ -1,8 +1,9 @@
 baseurl = "/"
 title = "Embedded Blog"
 languageCode = "pt-br"
-paginate = "10" # Number of posts per page
 theme = "mainroad"
+[pagination]
+  pagerSize = 10
 
 [Params]
   description = "Talkys blog for embedded development report" # Site description. Used in meta description
