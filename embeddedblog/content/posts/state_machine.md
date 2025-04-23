@@ -6,9 +6,11 @@ draft = false
 
 My project today is just a little experiment on state processing. Just a green LED with a button that cycles it's levels from 0 to 3.
 
+<!--more-->
+
 ![Circuit](/images/blink2.jpg)
 
-The is right here
+The code is right here
 
 ``` c++
 /****************************/

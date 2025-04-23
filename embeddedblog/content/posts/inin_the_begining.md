@@ -6,6 +6,8 @@ draft = false
 
 Before diving into anything barely practical, we need to start with the basics. The go-to basic embedded project is the blinking LED, but I don't like something so simple. Instead, my first project will be a LED blinking device that uses two buttons to select a power blink level while pressed.
 
+<!--more-->
+
 The idea is simple enough for a first thing, but let's see how it works.
 
 ![Circuit](/images/blink1.jpg)
