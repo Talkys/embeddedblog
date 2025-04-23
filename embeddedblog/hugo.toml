@@ -39,7 +39,7 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "images/logo.png" # Logo image. Path relative to "static"
+  image = "images/perfil_cortado.png" # Logo image. Path relative to "static"
   title = "Talkys Embedded Blog" # Logo title, otherwise will use site title
   subtitle = "My reports on embedded projects" # Logo subtitle
 
