@@ -1,7 +1,7 @@
 +++
 title = 'The smoke detector'
 date = 2025-04-26T11:26:37-03:00
-draft = true
+draft = false
 +++
 
 So I had the idea to make a smoke detector (gas too but that's just a bonus) that does not require a fire central
