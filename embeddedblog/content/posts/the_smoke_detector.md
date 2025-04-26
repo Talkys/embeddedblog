@@ -46,7 +46,7 @@ In theory this would work for many sensors, but one big this is that if you have
 
 The hardware setup is very simples as I'll show in this immage:
 
-![Circuit](/images/diagram_01.jpg)
+![Circuit](/images/diagram_01.png)
 
 #### The real problem is the software setup.
 
