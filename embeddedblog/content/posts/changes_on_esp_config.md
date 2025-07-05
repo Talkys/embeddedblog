@@ -1,7 +1,7 @@
 +++
 title = 'Changes to the ESP config'
 date = 2025-05-03T15:17:51-03:00
-draft = false
+draft = true
 +++
 
 ### Changes to the ESP
