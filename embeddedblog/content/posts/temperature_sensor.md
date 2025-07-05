@@ -1,4 +1,5 @@
-+++ title = 'Temperature Sensor'
++++
+title = 'Temperature Sensor'
 date = 2025-04-23T13:52:20-03:00
 draft = false
 +++
