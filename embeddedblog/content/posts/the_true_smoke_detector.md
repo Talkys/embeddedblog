@@ -1,5 +1,5 @@
 +++
-title = 'Smoke Detector - The electric bugaloo'
+title = 'The true smoke detector'
 date = 2025-09-26T21:56:00-03:00
 draft = false
 +++
