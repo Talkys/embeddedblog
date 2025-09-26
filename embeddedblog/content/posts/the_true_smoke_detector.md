@@ -4,13 +4,13 @@ date = 2025-09-26T14:52:20-03:00
 draft = false
 +++
 
-Finally, the project what done. Way more simpler than I expected but still.
+Finally, the project was done. Way more simpler than I expected, but still complex.
 
 Going in simple terms the smoke detector seen in the picture below is just an MQ2 sensor linked to an ESP32 board.
 
 On initialization the ESP tries to connect to any stored network, if it fails, it starts an AP to config the network connection. On sucess, it starts serving a webpage to diplay the reading of the sensor every 2 seconds.
 
-![Web page](/images/smoke_detector.png)
+![Circuit](/images/smoke_detector.png)
 
 Here you can see the webpage of the readings:
 
@@ -183,7 +183,7 @@ void loop() {
 
 ```
 
-That's all for all this long time. I don't know which projects I'll try on the short term but probably something with a big complexity gap. Maybe something more OS like.
+That's all for this long time. I don't know which projects I'll try on the short term but probably something with a big complexity gap. Maybe something more RTOS like.
 
 I'm going for some specialization for now. I hope to get bigger projects with those.
 
