@@ -1,6 +1,6 @@
 +++
 title = 'The true smoke detector'
-date = 2025-09-26T21:56:00-03:00
+date = 2025-09-26T14:52:20-03:00
 draft = false
 +++
 
